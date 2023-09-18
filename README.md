@@ -12,10 +12,10 @@ put you instagram password(again be carefull and don't make any mistakes)
 Type the targeted id as it is.(no mistakes here)
 
 # Naming scheme of the inputs is a bit confusing so here's a quick guide about how to use them
-fs = targeted id's FOLLOWERS 
-fw = targeted id's FOLLOWING  
-fl = follow 
-ufl = unfollow
+fs = targeted id's FOLLOWERS, 
+fw = targeted id's FOLLOWING,  
+fl = follow, 
+ufl = unfollow,
 
 So for example if you choose fw and fl, then the code will get all the followings of the targeted id and follow them.
 Or if you choose fw and ufl then the code will unfollow all the follwings of the targeted id.
