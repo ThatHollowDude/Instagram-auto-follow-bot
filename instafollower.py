@@ -12,11 +12,11 @@ URL = "https://www.instagram.com/accounts/login/?source=auth_switcher"
 
 class InstaFollower:
     def __init__(self):
-        self.username = "shreya_rathi.967"
-        self.password = "vishal#911*"
+        self.username = ""
+        self.password = ""
         self.driver = webdriver.Chrome(options=options)
         self.driver.get(url=URL)
-        self.target_id = "virubhai4879"
+        self.target_id = ""
         time.sleep(3)
 
     def login(self):
